@@ -5,7 +5,7 @@ Welcome to the "Your First Pull Request" repository, a friendly and welcoming sp
 
 Welcome to the Hacktoberfest Repository!
 
-![Hacktoberfest Logo](https://hacktoberfest.digitalocean.com/assets/hf19-social-card-8d01e9682f7387b76a842164ce207c0cb2f9954bf4a5c055f0bf4e98f5d1505f4.png)
+![Hacktoberfest Logo](https://hacktoberfest.com/)
 
 **Hacktoberfest** is a month-long celebration of open source software. It's the perfect opportunity for developers, both new and experienced, to contribute to open source projects and gain experience in a collaborative and inclusive environment.
 
