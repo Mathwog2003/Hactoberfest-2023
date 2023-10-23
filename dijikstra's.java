@@ -19,7 +19,7 @@ public class GFG {
 	public GFG(int V)
 	{
 
-		// This keyword refers to current object itself
+		// This  refers to current object itself
 		this.V = V;
 		dist = new int[V];
 		settled = new HashSet<Integer>();
