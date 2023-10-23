@@ -7,7 +7,7 @@ import java.util.*;
 // Main class DPQ
 public class GFG {
 
-	// Member variables of this class
+	// Member variables of this class essential
 	private int dist[];
 	private Set<Integer> settled;
 	private PriorityQueue<Node> pq;
