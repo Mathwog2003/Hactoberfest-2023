@@ -59,6 +59,7 @@ def gameLoop():
     foody = round(random.randrange(0, dis_height - snake_block) / 10.0) * 10.0
  
     while not game_over:
+     #closing method
  
         while game_close == True:
             dis.fill(blue)
